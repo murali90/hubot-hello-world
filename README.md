@@ -18,7 +18,7 @@ Then add **hubot-hello-world** to your `external-scripts.json`:
 ]
 ```
 
-# Sample Interaction
+## Sample Interaction
 
 ```
 user1>> hubot hello
