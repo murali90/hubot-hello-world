@@ -6,7 +6,10 @@ revertt
 
 revert
 
+<<<<<<< HEAD
 >>>>>>> revert
+=======
+>>>>>>> 6f78bc580b7555b4ac77bc059007321ea1e747a5
 this is the file
 
 rebaseee
