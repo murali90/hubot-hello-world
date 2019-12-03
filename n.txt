@@ -1,6 +1,12 @@
 ####revert#####
 
+<<<<<<< HEAD
 revertt
+=======
+
+revert
+
+>>>>>>> revert
 this is the file
 
 rebaseee
