@@ -4,8 +4,4 @@ rebaseee
 
 add
 
-
-revert 
-
-
 ammend
